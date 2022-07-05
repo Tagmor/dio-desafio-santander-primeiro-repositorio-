@@ -1,2 +1,5 @@
-# dio-desafio-santander-primeiro-repositorio-
-Desafio de projeto sobre Git/Github - Bootcamp Santander
+# Desafio de Projeto sobre Git/Github da DIO
+Repositório criado para o Bootcamp Santander
+
+##Links Úteis
+[Sintaxe Básica Markdown] (https://www.markdownguide.org/)
